@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/amanprakash299" target="blank"><img src="https://img.shields.io/twitter/follow/amanprakash299?logo=twitter&style=for-the-badge" alt="amanprakash299" /></a> </p>
 
-- 🔭 I’m currently working on **Andriod Studio**
+- 🔭 I’m currently working on **Java.jdk**
 
 - 🌱 I’m currently learning **Aws Cloud Services**
 
